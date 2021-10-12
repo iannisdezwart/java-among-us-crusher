@@ -1,0 +1,58 @@
+You are playing a game of "Among Us" with several other people. You are the blue player, and you're an innocent crewmate. Next to you there are five other players: Stefan (yellow), Ivo (green), Kevin (black), Yana (purple) and Mara (red). You need to find the impostor to win the game. Try to stay alive!
+1 - Go to electrical to connect wires.
+2 - Go swipe your card in admin.
+3 - Go to weapons for your download.
+4 - Follow Ivo (green), and try to verify whether he's an imposter
+
+What do you do? Choose a number that corresponds with an option: 
+3
+You go towards weapons, and notice Kevin (black) is moving in the same direction. When you get to weapons, Kevin (black) starts doing asteroids, which indicates he's a crewmate!
+1 - Do your your download as Kevin (black) does asteroids.
+2 - Kevin seems clear, try to look for suspicious people elsewhere.
+3 - Asteroids is quite a long task, guard Kevin (black) while he is doing it
+
+What do you do? Choose a number that corresponds with an option: 
+3
+You keep an eye on Kevin (black) while he is doing the task. Then the lights suddenly turn off. Because you were paying attention, you quickly move on top of Kevin (black) to ensure he doesn't get killed. You wait together until the lights turn back on.
+1 - Crisis averted, do your download. 
+2 - Call an emergency to see if someone died.
+
+What do you do? Choose a number that corresponds with an option: 
+2
+You run towards cafeteria and hit the button. No one has died.
+1 - Vouch for Kevin during the meeting.
+2 - Try to get info from the others.
+3 - Call out Stefan for being suspicious.
+
+What do you do? Choose a number that corresponds with an option: 
+1
+You report that you think Kevin is innocent, Kevin says the same, because you could have easily killed him. Stefan (yellow) says, he, Mara (red) and Ivo (green) were together most of the time.
+1 - You know too little, skip vote.
+2 - Vote Stefan, he seems pretty sus.
+
+What do you do? Choose a number that corresponds with an option: 
+1
+The others skipped as well, and the game continuous. Everyone is still alive
+1 - Go to MedBay to do your scan.
+2 - You didn't hear a lot from Yana (purple), follow her to get more information.
+3 - Tag along with Kevin (black)
+
+What do you do? Choose a number that corresponds with an option: 
+1
+You go towards MedBay and do your scan. Stefan (yellow) comes by and sees you scanning. That should help! Once you're done an emergency with the oxygen supply happens!
+1 - Go to admin to fix the left side of O2 together with Stefan (yellow).
+2 - Stefan (yellow) is going left, go towards navigation to fix the right side of 02.
+
+What do you do? Choose a number that corresponds with an option: 
+1
+You fix the left side of O2, and Kevin (black) also shows up here. After that a body is reported by Yana (purple). Ivo (green) is dead!
+1 - This has to be a self report vote Yana (purple)
+2 - No one saw Mara (red) that round, suspicious.
+
+What do you do? Choose a number that corresponds with an option: 
+1
+You're convinced it's Yana (purple), the others want to vote together and follow you. Yana (purple) is ejected... and she was the impostor! YOU WIN!
+1 - Play again! 
+2 - Quit game.
+
+What do you do? Choose a number that corresponds with an option: 
